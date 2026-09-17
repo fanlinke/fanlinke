@@ -22,8 +22,8 @@
 
 - B.Eng. student in **Computer Science and Technology** at **Tongji University** (Sep. 2023 – Jun. 2027), GPA 85.04 / 100
 - I like taking a complicated system apart until its structure is clear, then building it back so that it is measurable and reliable
-- First author of **FSB-Net** (IEEE BIBM 2026, CCF-B); project lead of **CausIDL**
-- Interned at **JD Technology (JD Cloud)**, **QAX Technology Group**, the **Taiyuan Municipal People's Government** and **CCB Fintech**
+- First author of **FSB-Net** (IEEE BIBM 2026, CCF-B); research on causal graph discovery for deep learning microservices
+- Interned at **JD Technology (JD Cloud)**, **Beijing Qihu Ceteng Security Technology** and **CCB Fintech**
 
 ## Selected Publication
 
@@ -49,7 +49,7 @@ Descriptions and details: **[fanlinke.github.io/projects](https://fanlinke.githu
 | Programming | Python · C++ · SQL |
 | AI &amp; Data | PyTorch · NumPy · Pandas |
 | Cloud-Native | Kubernetes · Knative · Argo · Prometheus |
-| Big Data | Spark · Hive · HDFS · Hudi |
+| Big Data | Spark · Hive |
 
 ---
 
