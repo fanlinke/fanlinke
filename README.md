@@ -1,65 +1,58 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/CS%20Undergraduate-Computer%20Science-2563EB?style=flat-square&logo=github&logoColor=white" alt="CS Undergraduate" />
-  <img src="https://img.shields.io/badge/Focus-Database%20%26%20Backend-0F766E?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Learning-D97706?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/CS%20Undergraduate-Tongji%20University-2563EB?style=flat-square&logo=github&logoColor=white" alt="CS Undergraduate at Tongji University" />
+  <img src="https://img.shields.io/badge/Focus-Data%20%26%20Cloud--Native-0F766E?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Research-Applied%20ML-D97706?style=flat-square" alt="Research" />
 </p>
 
-<h1 align="center">Hi, I'm fanlinke</h1>
+<h1 align="center">Linke Fan · 樊林珂</h1>
 
-<p align="center"><em>计算机科学与技术专业本科生，喜欢把复杂系统拆成清晰可靠的结构。</em></p>
+<p align="center"><em>Computer Science undergraduate at Tongji University — database &amp; cloud-native systems, applied machine learning.</em></p>
 
 <p align="center">
-  <a href="https://github.com/fanlinke">GitHub</a>
-  ·
+  <a href="https://fanlinke.github.io"><strong>🏠 fanlinke.github.io</strong></a>
+  &nbsp;·&nbsp;
   <a href="mailto:linke@tongji.edu.cn">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/fanlinke">GitHub</a>
 </p>
 
 ---
 
-## 关于我 / About
+## About
 
-- 同济大学计算机科学与技术专业本科生
-- 关注数据库系统、操作系统、计算机网络与后端开发
-- 偏好清晰、可维护、可验证的工程习惯
-- 正在把课程学习整理成可公开的项目与笔记
+- B.Eng. student in **Computer Science and Technology** at **Tongji University** (Sep. 2023 – Jun. 2027), GPA 85.04 / 100
+- I like taking a complicated system apart until its structure is clear, then building it back so that it is measurable and reliable
+- First author of **FSB-Net** (IEEE BIBM 2026, CCF-B); project lead of **CausIDL**
+- Interned at **JD Technology (JD Cloud)**, **QAX Technology Group**, the **Taiyuan Municipal People's Government** and **CCB Fintech**
 
-## 当前状态 / Now
+## Selected Publication
 
-| 方向 | 内容 |
+**FSB-Net: Frequency-Spatial Boundary Network for Brain Stroke Lesion Segmentation in Non-Contrast CT**
+Linke Fan\*, Xianglong Li\*, Huixin Huang, Kai Shu<sup>#</sup> — *IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2026*
+[arXiv](https://arxiv.org/abs/2607.20955) &nbsp;·&nbsp; \* equal contribution &nbsp;·&nbsp; <sup>#</sup> corresponding author
+
+## Projects
+
+| Project | What it is | Links |
+| --- | --- | --- |
+| **FSB-Net** | Frequency-spatial boundary network for brain stroke lesion segmentation in non-contrast CT (wavelet boundary head, cross-attention, spectral boundary loss) | [arXiv](https://arxiv.org/abs/2607.20955) |
+| **CausIDL** | Resource-competition-aware causal graph discovery for deep learning microservices | repo coming soon |
+| **Serverless AI Workflow** | Serverless end-to-end AI workflow platform on Knative + Argo, with an in-browser AI code editor | repo coming soon |
+| **MiniOB** | Core components of a compact relational database engine in C++ (OceanBase MiniOB) | [repo](https://github.com/fanlinke/miniob-2023) |
+
+Descriptions and details: **[fanlinke.github.io/projects](https://fanlinke.github.io/projects)**
+
+## Skills
+
+| Area | Tools |
 | --- | --- |
-| 正在学习 | 数据库系统、操作系统、计算机网络 |
-| 正在实践 | 数据结构与算法、后端工程、命令行工具 |
-| 最近关注 | 系统设计、开源协作、测试与可维护性 |
+| Programming | Python · C++ · SQL |
+| AI &amp; Data | PyTorch · NumPy · Pandas |
+| Cloud-Native | Kubernetes · Knative · Argo · Prometheus |
+| Big Data | Spark · Hive · HDFS · Hudi |
 
-## 项目 / Projects
+---
 
-> 项目区正在整理，后续会逐个补充简介、技术栈和仓库链接。
+<p align="center"><i>Keep learning, keep building, keep documenting.</i></p>
 
-| 项目 | 简介 | 技术栈 | 链接 |
-| --- | --- | --- | --- |
-| 项目 01 | 待补充 | 待补充 | 待添加 |
-| 项目 02 | 待补充 | 待补充 | 待添加 |
-| 项目 03 | 待补充 | 待补充 | 待添加 |
-| 项目 04 | 待补充 | 待补充 | 待添加 |
-
-## 技术栈 / Skills
-
-| 类别 | 内容 |
-| --- | --- |
-| 语言 | C/C++、Python、SQL（按实际使用持续更新） |
-| 系统 | 数据库、操作系统、计算机网络 |
-| 工程 | Git、Linux、CMake、Docker |
-
-## GitHub 数据 / GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanlinke&layout=compact&theme=transparent&hide_border=true&title_color=2563eb&text_color=334155&icon_color=0f766e" alt="Top Languages" />
-</p>
-
-## 联系我 / Contact
-
-- Email: [linke@tongji.edu.cn](mailto:linke@tongji.edu.cn)
-- Blog: 待补充
-- GitHub: [fanlinke](https://github.com/fanlinke)
-
-<p align="center">Keep learning, keep building, keep documenting.</p>
+<p align="center"><sub>Personal homepage: <a href="https://fanlinke.github.io">https://fanlinke.github.io</a></sub></p>
