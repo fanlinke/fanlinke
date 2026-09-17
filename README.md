@@ -20,7 +20,7 @@
 
 ## About
 
-- B.Eng. student in **Computer Science and Technology** at **Tongji University** (Sep. 2023 – Jun. 2027), GPA 85.04 / 100
+- B.Eng. student in **Computer Science and Technology** at **Tongji University** (Sep. 2023 – Jun. 2027)
 - I like taking a complicated system apart until its structure is clear, then building it back so that it is measurable and reliable
 - First author of **FSB-Net** (IEEE BIBM 2026, CCF-B); research on causal graph discovery for deep learning microservices
 - Interned at **JD Technology (JD Cloud)**, **Beijing Qihu Ceteng Security Technology** and **CCB Fintech**
